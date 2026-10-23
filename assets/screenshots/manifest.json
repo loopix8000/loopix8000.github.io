@@ -1,0 +1,79 @@
+{
+  "createdAt": "2026-10-23T05:03:44.964Z",
+  "source": {
+    "commit": "e3f11a0de1357c33e811bb141cb5eb88fb15a44e",
+    "dirty": true
+  },
+  "appVersion": "1.0.6-rc.1",
+  "viewport": {
+    "width": 1440,
+    "height": 960
+  },
+  "demo": {
+    "title": "Lof Writer 퀵스타트 가이드",
+    "chapters": 3,
+    "episodeCounts": [
+      {
+        "title": "첫 작품 시작하기",
+        "value": 3034
+      },
+      {
+        "title": "집필과 조판 설정",
+        "value": 3033
+      },
+      {
+        "title": "플롯과 메모로 정리하기",
+        "value": 3002
+      }
+    ],
+    "listOnlyChapters": 0,
+    "specials": [],
+    "caption": "예제 작품 「Lof Writer 퀵스타트 가이드」를 문서 형식의 안내서로 구성했습니다. 에피소드 본문은 각각 약 3,000자이며, 플롯과 메모는 짧은 기능 예제로 구성했습니다.",
+    "coverSha256": null
+  },
+  "attribution": "예시 이미지와 텍스트는 기능 이해를 돕기 위해 생성형 AI를 사용해 제작했습니다.",
+  "captures": [
+    {
+      "id": "editor",
+      "title": "집필 화면과 연결 문서 위젯",
+      "file": "editor.png",
+      "sha256": "7b39e304fa49a4a25dc287de799f4ac2e652d2eb47229c883f0ffa1852d7b371"
+    },
+    {
+      "id": "project",
+      "title": "회차와 집필 상태",
+      "file": "project.png",
+      "sha256": "c469301a33d42d9f404605b8c6443e41a1b282e9cc7bcdae57a44126aff0c919"
+    },
+    {
+      "id": "quick-note",
+      "title": "선택한 문장에서 퀵 노트 작성",
+      "file": "quick-note.png",
+      "sha256": "a0e797b4242331dfd0f886879417754e139a61b498c306625b0ece8fea651958"
+    },
+    {
+      "id": "bookmarks",
+      "title": "모든 작품의 북마크 모아 보기",
+      "file": "bookmarks.png",
+      "sha256": "924cc331d09663d72e78228599d0bffe47cac9c4a927b0f38c97a4c5b87e94e4"
+    },
+    {
+      "id": "split",
+      "title": "원고와 플롯을 나란히 집필",
+      "file": "split.png",
+      "sha256": "592bb724b83838cef0e11aa7c21aaa5e0f762fa01301db92ccf84c297da8b4c5"
+    },
+    {
+      "id": "mobile",
+      "title": "모바일 화면으로 원고 미리보기",
+      "file": "mobile.png",
+      "sha256": "e4455b05da8ce90ffb617c15a7b682ef530a531dbc3a15c1ef249bee49914c08"
+    },
+    {
+      "id": "table",
+      "title": "표와 문서 속성",
+      "file": "table.png",
+      "sha256": "9766c92c638f95b2241afeb230189830aa0cb07ac72d82bd9b4e627292fdee46"
+    }
+  ]
+}
