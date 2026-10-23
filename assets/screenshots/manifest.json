@@ -1,10 +1,10 @@
 {
-  "createdAt": "2026-10-23T05:03:44.964Z",
+  "createdAt": "2026-10-23T06:52:37.5Z",
   "source": {
-    "commit": "e3f11a0de1357c33e811bb141cb5eb88fb15a44e",
-    "dirty": true
+    "commit": "58410cbdd6def563293d2bcbdcbaec007f576b22",
+    "dirty": false
   },
-  "appVersion": "1.0.6-rc.1",
+  "appVersion": "1.1.0",
   "viewport": {
     "width": 1440,
     "height": 960
@@ -37,7 +37,7 @@
       "id": "editor",
       "title": "집필 화면과 연결 문서 위젯",
       "file": "editor.png",
-      "sha256": "7b39e304fa49a4a25dc287de799f4ac2e652d2eb47229c883f0ffa1852d7b371"
+      "sha256": "8476ef987e33492e5d34d9fa87f5d5a4ff2ec00e2f377c9f929444390e854fd5"
     },
     {
       "id": "project",
@@ -49,7 +49,7 @@
       "id": "quick-note",
       "title": "선택한 문장에서 퀵 노트 작성",
       "file": "quick-note.png",
-      "sha256": "a0e797b4242331dfd0f886879417754e139a61b498c306625b0ece8fea651958"
+      "sha256": "1a68f66b630fc09aee27a8f6d7e4bf294e3bd394d2cbade1a50114670881a0bd"
     },
     {
       "id": "bookmarks",
@@ -61,19 +61,19 @@
       "id": "split",
       "title": "원고와 플롯을 나란히 집필",
       "file": "split.png",
-      "sha256": "592bb724b83838cef0e11aa7c21aaa5e0f762fa01301db92ccf84c297da8b4c5"
+      "sha256": "d42bf56a38bbec69545a2543ce1624f38915902861e2796ce418a4fd0a257092"
     },
     {
       "id": "mobile",
       "title": "모바일 화면으로 원고 미리보기",
       "file": "mobile.png",
-      "sha256": "e4455b05da8ce90ffb617c15a7b682ef530a531dbc3a15c1ef249bee49914c08"
+      "sha256": "79118f3c31aafddfdecaf5164388360f2d3446dc466449eda472b02b947dcfe2"
     },
     {
       "id": "table",
       "title": "표와 문서 속성",
       "file": "table.png",
-      "sha256": "9766c92c638f95b2241afeb230189830aa0cb07ac72d82bd9b4e627292fdee46"
+      "sha256": "cb85a0bcc1121de9e43e81fea5d0aedb685efe0db9552f7a4c54b93187f9c857"
     }
   ]
 }
